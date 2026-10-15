@@ -1,0 +1,6 @@
+interface:
+  display_name: "Growth HealMe · 원인 분석"
+  short_description: "변화한 지표의 원인을 상품·기간·비용별로 나눠 확인합니다"
+  icon_small: "./assets/growth-hm.svg"
+  icon_large: "./assets/growth-hm.svg"
+  default_prompt: "$growth-diagnosis로 최근 공헌이익이 변한 원인을 분석해줘."

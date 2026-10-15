@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "growth-hm-reports": {
+    "Growth-HealMe": {
       "type": "http",
       "url": "https://growth.thehealme.kr/api/growth-mcp",
       "scopes": [

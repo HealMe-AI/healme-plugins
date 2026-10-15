@@ -1,0 +1,6 @@
+interface:
+  display_name: "Growth HealMe · 정기 보고서"
+  short_description: "일간·주간·월간 실적과 주요 변화를 보고서로 정리합니다"
+  icon_small: "./assets/growth-hm.svg"
+  icon_large: "./assets/growth-hm.svg"
+  default_prompt: "$growth-periodic-report로 최근 완료된 한 주의 실적 보고서를 만들어줘."

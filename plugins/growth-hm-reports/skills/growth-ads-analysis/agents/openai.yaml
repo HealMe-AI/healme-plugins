@@ -1,0 +1,6 @@
+interface:
+  display_name: "Growth HealMe · 광고 분석"
+  short_description: "매체·캠페인별 광고 효율과 변화 원인을 비교해 설명합니다"
+  icon_small: "./assets/growth-hm.svg"
+  icon_large: "./assets/growth-hm.svg"
+  default_prompt: "$growth-ads-analysis로 최근 광고 성과와 효율 변화 원인을 분석해줘."

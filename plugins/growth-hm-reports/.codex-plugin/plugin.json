@@ -1,6 +1,6 @@
 {
   "name": "growth-hm-reports",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "Growth HealMe의 공통 집계와 원천 데이터를 활용하는 읽기 전용 조회·분석·보고서",
   "author": {
     "name": "Heal Me"
