@@ -1,6 +1,6 @@
 {
   "name": "growth-hm-reports",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Growth HealMe의 공통 집계와 원천 데이터를 활용하는 읽기 전용 조회·분석·보고서",
   "author": {
     "name": "Heal Me"
@@ -18,7 +18,8 @@
       "원하는 기간과 조건으로 데이터를 조회하고 분석해줘"
     ],
     "logo": "./assets/growth-hm.svg",
-    "composerIcon": "./assets/growth-hm.svg"
+    "composerIcon": "./assets/growth-hm.svg",
+    "websiteUrl": "https://growth.thehealme.kr"
   },
   "skills": "./skills/",
   "mcpServers": "./.mcp.json"
