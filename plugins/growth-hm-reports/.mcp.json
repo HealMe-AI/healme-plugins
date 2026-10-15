@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "growth-hm-reports": {
+      "type": "http",
+      "url": "https://growth.thehealme.kr/api/growth-mcp",
+      "scopes": [
+        "growth:read",
+        "offline_access"
+      ]
+    }
+  }
+}

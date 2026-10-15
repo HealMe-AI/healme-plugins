@@ -1,0 +1,20 @@
+{
+  "name": "healme-reports",
+  "interface": {
+    "displayName": "Growth HealMe"
+  },
+  "plugins": [
+    {
+      "name": "growth-hm-reports",
+      "source": {
+        "source": "local",
+        "path": "./plugins/growth-hm-reports"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

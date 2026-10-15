@@ -1,0 +1,25 @@
+{
+  "name": "growth-hm-reports",
+  "version": "0.5.0",
+  "description": "Growth HealMe의 공통 집계와 원천 데이터를 활용하는 읽기 전용 조회·분석·보고서",
+  "author": {
+    "name": "Heal Me"
+  },
+  "interface": {
+    "displayName": "Growth HealMe",
+    "shortDescription": "그로스힐미 데이터 조회·분석",
+    "longDescription": "회사 계정으로 그로스힐미의 매출·상품·광고·회원·쿠폰·목표와 허용 원천을 읽기 전용으로 조회·분석합니다. DB 접속정보는 서버에만 보관합니다.",
+    "developerName": "Heal Me",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "defaultPrompt": [
+      "원하는 기간과 조건으로 데이터를 조회하고 분석해줘"
+    ],
+    "logo": "./assets/growth-hm.svg",
+    "composerIcon": "./assets/growth-hm.svg"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
